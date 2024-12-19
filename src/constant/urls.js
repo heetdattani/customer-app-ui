@@ -1,0 +1,8 @@
+export const loginUrl = 'api/auth/signin'
+export const userProfileUrl = 'api/me'
+export const createCustomer = 'api/customer/create'
+export const viewCustomer = 'api/customer/view/'
+export const updateCustomer = 'api/customer/update/'
+export const deleteCustomer = 'api/customer/delete/'
+export const customerDataList = 'api/customer/listing'
+export const registerUser = 'api/auth/signup'
