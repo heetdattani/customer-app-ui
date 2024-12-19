@@ -178,7 +178,7 @@ const CustomerManagement = () => {
                 <table className="table without-table-action">
                   <thead>
                     <tr>
-                      <th width="10%">#</th>
+                      <th width="10%">Id</th>
                       <th onClick={() => handleCustomerColumnSort('name')}>
                         <span className="sortCls">
                           <span className="table-header-text-mrg">Name</span>
